@@ -60,16 +60,22 @@ export const profile = {
     ],
     experience: [
         {
-            title: "Desarrollador Full Stack Jr",
-            company: "Tech Solutions Inc.",
-            period: "2024 - Presente",
-            description: "Desarrollo y mantenimiento de aplicaciones web corporativas. Migración de interfaces legacy a React. Implementación de CI/CD pipelines."
+            title: "Ingeniero AtCliente",
+            company: "Atentus",
+            period: "Oct 2023 - Sep 2025",
+            description: "Implementé scripts en Python y JavaScript para monitoreo y validación de aplicaciones, apoyando la detección temprana de fallas."
         },
         {
-            title: "Freelance Developer",
-            company: "Autónomo",
-            period: "2023 - 2024",
-            description: "Creación de sitios web y sistemas de gestión para pequeños negocios. Gestión completa del ciclo de vida del software, desde toma de requerimientos hasta despliegue."
+            title: "Ingeniero de Soporte",
+            company: "Serban Group",
+            period: "Dic 2022 - Jun 2023",
+            description: "Gestioné y resolví incidencias de acceso y operación en plataformas corporativas basadas en Citrix, priorizando continuidad del servicio."
+        },
+        {
+            title: "Desarrollador (Práctica)",
+            company: "MBO Latam",
+            period: "Ago 2021 - Dic 2021",
+            description: "Desarrollé módulos en C# y JavaScript sobre Microsoft Dynamics CRM, implementando lógica de negocio y personalizaciones."
         }
     ],
     education: [
